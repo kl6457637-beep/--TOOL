@@ -1,6 +1,6 @@
 {
   "env": {
-    "QWEN_API_KEY": "@qwen-api-key",
+    "QWEN_API_KEY":"sk-1f6262d6561649e582818b71f442eeb8",
     "QWEN_API_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1"
   },
   "buildCommand": "npm run build",
