@@ -1,0 +1,33 @@
+Campaign Name,Ad Group Name,Customer Search Term,Clicks,Spend,7 Day Total Sales
+Auto-Campaign-01,Ad-Group-1,office chair,25,45.00,0
+Auto-Campaign-01,Ad-Group-1,gaming chair,18,32.50,0
+Auto-Campaign-01,Ad-Group-1,ergonomic desk,12,28.00,120.00
+Auto-Campaign-01,Ad-Group-1,children study desk,8,15.00,0
+Auto-Campaign-01,Ad-Group-1,leather office chair,20,55.00,280.00
+Auto-Campaign-01,Ad-Group-1,cheap office furniture,35,60.00,0
+Auto-Campaign-01,Ad-Group-1,used office chair,22,38.00,0
+Auto-Campaign-01,Ad-Group-1,free shipping chair,28,42.00,0
+Auto-Campaign-01,Ad-Group-1,executive leather chair,15,48.00,350.00
+Auto-Campaign-01,Ad-Group-1,gaming desk setup,40,75.00,0
+Auto-Campaign-01,Ad-Group-2,standing desk converter,10,25.00,180.00
+Auto-Campaign-01,Ad-Group-2,adjustable laptop stand,6,12.00,95.00
+Auto-Campaign-01,Ad-Group-2,monitor arm mount,8,18.00,150.00
+Auto-Campaign-01,Ad-Group-2,computer desk for gaming,30,55.00,0
+Auto-Campaign-01,Ad-Group-2,kids learning table,25,40.00,0
+Auto-Campaign-01,Ad-Group-2,white desk modern,5,10.00,85.00
+Auto-Campaign-01,Ad-Group-2,heavy duty office chair,14,38.00,290.00
+Auto-Campaign-01,Ad-Group-2,pregnant woman pillow,50,80.00,0
+Auto-Campaign-01,Ad-Group-3,bamboo desk accessory,4,8.00,65.00
+Auto-Campaign-01,Ad-Group-3,cord management kit,3,6.00,52.00
+Auto-Campaign-01,Ad-Group-3,desk organizer set,7,14.00,110.00
+Auto-Campaign-01,Ad-Group-3,gaming chair racing style,45,90.00,0
+Auto-Campaign-01,Ad-Group-3,bar stool height chair,38,65.00,0
+Auto-Campaign-01,Ad-Group-3,metal industrial desk,20,35.00,0
+Auto-Campaign-01,Ad-Group-3,office chair wheels,16,28.00,0
+Auto-Campaign-01,Ad-Group-3,executive desk pen set,2,4.00,38.00
+Manual-Campaign-01,Manual-Group-1,premium leather chair,8,22.00,175.00
+Manual-Campaign-01,Manual-Group-1,mesh back office chair,12,30.00,240.00
+Manual-Campaign-01,Manual-Group-1,home office desk combo,6,15.00,120.00
+Manual-Campaign-01,Manual-Group-1,drafting stool professional,18,42.00,0
+Manual-Campaign-01,Manual-Group-1,cosmetics vanity table,55,95.00,0
+Manual-Campaign-01,Manual-Group-1,beauty mirror with lights,48,82.00,0
